@@ -3,7 +3,6 @@ body{
     padding: 0px;
     font-family: 'Fira Sans', Arial, Helvetica, sans-serif;
     color: #141414;
-    margin-bottom: 1000px;
 }
 
 h1,h2,h3,p{
@@ -28,3 +27,5 @@ img{
     text-transform: uppercase;
     max-width: 4ch;
 }
+
+
