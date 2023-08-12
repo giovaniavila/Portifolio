@@ -1,39 +1,36 @@
 @import url(experiencia.css);
-@import url(header.css);
 @import url(footer.css);
 @import url(formacao.css);
+@import url(header.css);
 @import url(introducao.css);
-@import url(style.css);
-
-
-body{
-    margin: 0px;
-    padding: 0px;
-    font-family: 'Fira Sans', Arial, Helvetica, sans-serif;
-    color: #141414;
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Fira Sans", Arial, Helvetica, sans-serif;
+  color: #141414;
 }
 
-h1,h2,h3,p{
-    margin: 0px;
+h1, h2, h3, p {
+  margin: 0px;
 }
 
-ul{
-    margin: 0px;
-    padding: 0px;
-    list-style: none;
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
 }
 
-img{
-    max-width: 100%;
-    display: block;
+img {
+  max-width: 100%;
+  display: block;
 }
 
-.subtitulo{
-    font-size: 8rem;
-    word-break: break-all;
-    line-height: 1;
-    text-transform: uppercase;
-    max-width: 4ch;
+.subtitulo {
+  font-size: 8rem;
+  word-break: break-all;
+  line-height: 1;
+  text-transform: uppercase;
+  max-width: 4ch;
 }
 
-
+/*# sourceMappingURL=global.css.map */
