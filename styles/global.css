@@ -1,3 +1,11 @@
+@import url(experiencia.css);
+@import url(header.css);
+@import url(footer.css);
+@import url(formacao.css);
+@import url(introducao.css);
+@import url(style.css);
+
+
 body{
     margin: 0px;
     padding: 0px;
